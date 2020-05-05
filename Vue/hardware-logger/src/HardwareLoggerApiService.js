@@ -14,7 +14,7 @@ export default {
       url: resource,
       data,
       headers: {
-        
+        'Access-Control-Allow-Origin': '*',
       }
     }).then(req => {
       return req.data

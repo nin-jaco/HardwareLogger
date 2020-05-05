@@ -191,10 +191,8 @@ C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStud
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_green.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
@@ -270,11 +268,9 @@ C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\linux-x86\n
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\win8-arm\native\e_sqlite3.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\AspNetCore.csprojAssemblyReference.cache
 C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\AspNetCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\AspNetCore.AssemblyInfoInputs.cache
 C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\AspNetCore.AssemblyInfo.cs
@@ -285,3 +281,12 @@ C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\AspN
 C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\AspNetCore.dll
 C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\AspNetCore.pdb
 C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\AspNetCore.genruntimeconfig.cache
+C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\AspNetCore.csprojAssemblyReference.cache
+C:\Source\HardwareLogger\AspNetCore\obj\Debug\netcoreapp3.1\AspNetCore.csproj.CoreCompileInputs.cache
+C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Source\HardwareLogger\AspNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
