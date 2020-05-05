@@ -27,7 +27,6 @@ namespace AspNetCore
         public void ConfigureServices(IServiceCollection services)
         {
             
-            services.AddControllers();
             //cors
             services.AddCors(options =>
             {
@@ -36,10 +35,11 @@ namespace AspNetCore
                     builder
                         .AllowAnyHeader()
                         .AllowAnyMethod()
-                        .AllowCredentials()
-                        .WithOrigins("http://localhost:8080");
+                        .WithOrigins("http://localhost:8080/");
                 });
             });
+
+            services.AddControllers();
 
             var connectionString = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlite(connectionString));
@@ -57,13 +57,14 @@ namespace AspNetCore
             //app.UseMvc();
             app.UseRouting();
 
+            app.UseCors("VueCorsPolicy");
+
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
 
-            app.UseCors("VueCorsPolicy");
         }
     }
 }
